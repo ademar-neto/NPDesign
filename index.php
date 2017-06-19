@@ -4,7 +4,7 @@
 <?php include(HEADER_TEMPLATE); ?>
 <?php $db = open_database(); ?>
 
-<h1>Dashboard</h1>
+<h1>Bem Vindo!</h1>
 <hr />
 
 <?php if ($db) : ?>

@@ -27,9 +27,6 @@
         
         <dt>Matrícula:</dt>
 	<dd><?php echo $customer['matricula']; ?></dd>
-</dl>
-        
-<dl class="dl-horizontal">
 
 	<dt>Telefone:</dt>
 	<dd><?php echo $customer['phone']; ?></dd>

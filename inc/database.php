@@ -39,12 +39,6 @@ function find( $table = null, $id = null ) {
 	    
 	    if ($result->num_rows > 0) {
 	      $found = $result->fetch_all(MYSQLI_ASSOC);
-        
-        /* Metodo alternativo
-        $found = array();
-        while ($row = $result->fetch_assoc()) {
-          array_push($found, $row);
-        } */
 	    }
 	  }
 	} catch (Exception $e) {

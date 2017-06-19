@@ -12,27 +12,27 @@
   <hr />
   <div class="row">
     <div class="form-group col-md-7">
-      <label for="nome">Nome</label>
+      <label for="nome">Nome:</label>
       <input type="text" class="form-control" name="customer['name']">
     </div>
 
     <div class="form-group col-md-5">
-      <label for="rg">Identidade</label>
+      <label for="rg">Identidade:</label>
       <input type="text" class="form-control" name="customer['rg']">
     </div>
       
     <div class="form-group col-md-4">
-      <label for="cpf">CPF</label>
+      <label for="cpf">CPF:</label>
       <input type="text" class="form-control" name="customer['cpf']">
     </div>
 
     <div class="form-group col-md-3">
-      <label for="nascimento">Data de Nascimento</label>
+      <label for="nascimento">Data de Nascimento:</label>
       <input type="text" class="form-control" name="customer['birthdate']">
     </div>
       
     <div class="form-group col-md-2">
-      <label for="matricula">Matrícula SIAP</label>
+      <label for="matricula">Matrícula SIAP:</label>
       <input type="text" class="form-control" name="customer['siap']">
     </div>
      

@@ -35,21 +35,14 @@
       <label for="matricula">Matrícula SIAP</label>
       <input type="text" class="form-control" name="customer['siap']">
     </div>
-  </div>
- 
-  <div class="row">
-    <div class="form-group col-md-3">
-      <label for="dc">Data de Cadastro</label>
-      <input type="text" class="form-control" name="customer['created']" disabled>
-    </div>
-    
+     
     <div class="form-group col-md-2">
-      <label for="telefone">Telefone</label>
+      <label for="telefone">Telefone:</label>
       <input type="text" class="form-control" name="customer['phone']">
     </div>
     
     <div class="form-group col-md-2">
-      <label for="celular">Celular</label>
+      <label for="celular">Celular:</label>
       <input type="text" class="form-control" name="customer['mobile']">
     </div>
   </div>

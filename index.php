@@ -43,9 +43,7 @@
 	</div>
 
 <?php endif; ?>
-// index.php
-...
 
-<?php include('modal.php'); ?>
+<?php include('customers/modal.php'); ?>
 
 <?php include(FOOTER_TEMPLATE); ?>

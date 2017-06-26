@@ -1,0 +1,190 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+	font-style: none;
+}
+
+html, body{
+	font-family: 'Lato', sans-serif;
+	height: 100%;
+}
+
+img{
+	display: block;
+}
+
+.maxWidth{
+	max-width: 1100px;
+}
+
+#teste{
+	margin: auto;
+	max-width: 1100px;
+}
+
+#teste2{
+	background: #f0f0f0;
+}
+
+#teste2 div{
+	margin: auto;
+	max-width: 1100px;
+}
+
+#teste img, #teste2 img{
+	width: 100%;
+}
+
+section.conteudoTemporario{
+	height: calc(100% - 250px);
+}
+
+/* ======================== */
+/* ========= TOPO ========= */
+/* ======================== */
+
+header.topo{
+	width: 100%;
+	box-shadow: 0 5px 10px rgba(0,0,0,0.25); 
+	display: table;
+	position: fixed;
+	background: #fff;
+}
+
+header.topo div.barra{
+	background: #393738;
+	display: -webkit-flex;
+	display: flex;
+	justify-content: flex-end;
+	width: 100%;
+}
+
+/*header.topo div.barra div{
+	float: right;
+	display: table;
+}*/
+
+header.topo div.barra p{
+	float: left;
+	color: #ffffff;
+	margin: 7px 0;
+	padding: 0 10px;
+	border-right: 1px solid #ffffff; 
+	font-size: 14px;
+}
+
+header.topo div.barra p:last-child{
+	border: none;
+	padding: 0 25px 0 10px;
+}
+
+/* === BARRA2 === */
+/* LOGO / LINKS */
+
+header.topo div.barra2{
+	display: -webkit-flex;
+	display: flex;
+	margin: auto;
+    justify-content: center;
+}
+
+header.topo img.logo{
+	height: 70px;
+	margin: 15px 25px;
+	/*float: left;*/
+}
+
+header.topo nav.menu{
+	width: 100%;
+}
+
+header.topo nav ul.linksMenu{
+	background: ;
+	display: table;
+	width: 100%;
+	margin: 50px 0 0;
+    display: flex;
+    justify-content: center;
+}
+
+header.topo nav ul.linksMenu li{
+	float: left;
+	margin: 0 10px;
+	/*padding: 0 10px;*/
+}
+
+header.topo nav ul.linksMenu li a{
+	font-size: 18px;
+	font-family: "Lato";
+	color: #393738;
+}
+
+header.topo nav ul.linksMenu li a:hover{
+	font-weight: bold;
+}
+
+/* ========================== */
+/* ========= BANNER ========= */
+/* ========================== */
+
+article.banner{
+	width: 100%;
+	overflow: hidden;
+}
+
+article.banner img{
+	width: 100%;
+	height: auto;
+	margin: 130px 0 0;
+}
+
+/* ================================== */
+/* ========= INDEX_CONTEUDO ========= */
+/* ================================== */
+
+section.conteudoIndex{
+
+}
+
+/* =========================== */
+/* ========= JANELAS ========= */
+/* =========================== */
+
+
+
+/* ========================= */
+/* ========= SOBRE ========= */
+/* ========================= */
+
+
+
+/* ========================== */
+/* ========= RODAPE ========= */
+/* ========================== */
+
+footer.rodape{
+	height: 250px;
+	background: #393738;
+}
+
+footer.rodape div.maxWidth{
+	display: flex;
+	margin: auto;
+}
+
+footer.rodape div.contatoRodape{
+	color: #f0f0f0;
+	flex-grow:2;
+}
+
+footer.rodape nav.linksRodape{
+	flex-grow:1;
+}
+
+footer.rodape nav.linksRodape ul li a{
+	color: #f0f0f0;
+	font-size: 14px;
+	font-weight: normal;
+}

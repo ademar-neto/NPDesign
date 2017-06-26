@@ -101,7 +101,6 @@ header.topo nav.menu{
 }
 
 header.topo nav ul.linksMenu{
-	background: ;
 	display: table;
 	width: 100%;
 	margin: 50px 0 0;
@@ -188,3 +187,13 @@ footer.rodape nav.linksRodape ul li a{
 	font-size: 14px;
 	font-weight: normal;
 }
+
+/* LOGIN */
+
+login.login{
+    display: flex;
+    font-family: cursive;
+    font-size: 14px;
+    height: auto;
+}
+

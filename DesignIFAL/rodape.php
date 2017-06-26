@@ -21,14 +21,17 @@
 			</div>
 			<nav class="linksRodape">
 				<ul>
-					<li><a href="">Inicio</a></li>
-					<li><a href="">Sobre</a></li>
-					<li><a href="">Cursos</a></li>
-					<li><a href="">Corpo Docente</a></li>
-					<li><a href="">Infraestrutura</a></li>
-					<li><a href="">CADI</a></li>
-					<li><a href="">NPDesign</a></li>
-					<li><a href="">Revista DIz</a></li>
+                                    <li><a href="index.php">Inicio</a></li>
+                                    <li><a href="sobre.php">Sobre</a></li>
+                                    <li><a href="cursos.php">Cursos</a></li>
+                                    <li><a href="corpo_docente.php">Corpo Docente</a></li>
+                                    <li><a href="infraestrutura.php">Infraestrutura</a></li>
+                                    <li><a href="CADI.php">CADI</a></li>
+                                    <li><a href="NPDesign.php">NPDesign</a></li>
+                                    <li><a href="revista.php">Revista DIz</a></li>
+                                    <li><a href="login.php.php" target="_blank">Entrar</a></li>
+                                    <li><a href="http://moodle.ifal.edu.br/" target="_blank">Moodle</a></li>
+                                    <li><a href="https://sigaa.ifal.edu.br/sigaa/public/home.jsf" target="_blank">Sigaa</a></li>
 				</ul>
 			</nav>
 		</div>

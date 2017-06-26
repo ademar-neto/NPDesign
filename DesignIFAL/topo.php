@@ -29,10 +29,10 @@
 					<li><a href="sobre.php">Sobre</a></li>
 					<li><a href="cursos.php">Cursos</a></li>
 					<li><a href="corpo_docente.php">Corpo Docente</a></li>
-					<li><a href="infraestrutura">Infraestrutura</a></li>
-					<li><a href="">CADI</a></li>
-					<li><a href="">NPDesign</a></li>
-					<li><a href="">Revista DIz</a></li>
+                                        <li><a href="infraestrutura.php">Infraestrutura</a></li>
+                                        <li><a href="CADI.php">CADI</a></li>
+                                        <li><a href="NPDesign.php">NPDesign</a></li>
+                                        <li><a href="revista.php">Revista DIz</a></li>
 				</ul>
 			</nav>
 		</div>

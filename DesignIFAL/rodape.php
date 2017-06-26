@@ -30,7 +30,7 @@
                                     <li><a href="NPDesign.php">NPDesign</a></li>
                                     <li><a href="revista.php">Revista DIz</a></li>
                                     <li><a href="login.php.php" target="_blank">Entrar</a></li>
-                                    <li><a href="http://moodle.ifal.edu.br/" target="_blank">Moodle</a></li>
+                                    <li><a href="https://moodle.ifal.edu.br/" target="_blank">Moodle</a></li>
                                     <li><a href="https://sigaa.ifal.edu.br/sigaa/public/home.jsf" target="_blank">Sigaa</a></li>
 				</ul>
 			</nav>
